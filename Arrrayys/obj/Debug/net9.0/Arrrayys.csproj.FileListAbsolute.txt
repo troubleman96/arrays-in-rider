@@ -1,0 +1,14 @@
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\bin\Debug\net9.0\Arrrayys.exe
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\bin\Debug\net9.0\Arrrayys.deps.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\bin\Debug\net9.0\Arrrayys.runtimeconfig.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\bin\Debug\net9.0\Arrrayys.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\bin\Debug\net9.0\Arrrayys.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\obj\Debug\net9.0\Arrrayys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\obj\Debug\net9.0\Arrrayys.AssemblyInfoInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\obj\Debug\net9.0\Arrrayys.AssemblyInfo.cs
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\obj\Debug\net9.0\Arrrayys.csproj.CoreCompileInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\obj\Debug\net9.0\Arrrayys.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\obj\Debug\net9.0\refint\Arrrayys.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\obj\Debug\net9.0\Arrrayys.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\obj\Debug\net9.0\Arrrayys.genruntimeconfig.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Arrrayys\Arrrayys\obj\Debug\net9.0\ref\Arrrayys.dll
